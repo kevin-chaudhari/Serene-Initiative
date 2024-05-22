@@ -1,0 +1,88 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Allura&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.bg{
+    background-image: url(hero.webp);
+    background-size:contain;
+    background-repeat: no-repeat;
+}
+
+
+.navbar{
+    padding: 20px 20px;
+    position: sticky;
+    top: 0;
+    background-color: transparent; 
+    transition: background-color 0.3s ease;
+}
+
+.navbar.fixed{
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0,0,0,0.3);
+}
+
+
+.navbar ul{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.navbar ul li{
+    list-style-type: none;
+}
+
+.navbar ul li a{
+   text-decoration: none;
+   font-family:Arial, Helvetica, sans-serif;
+   font-size: 18px;
+   font-weight: 300;
+   color: white;
+   transition: color 0.3s ease-in-out;
+}
+
+.navbar ul li a.button{
+font-weight: 600;
+color: black;
+transition: background 0.3s ease-in-out;
+}
+
+.navbar ul li a.button.fixed{
+    background: linear-gradient(90deg, rgba(63,94,251,1) 26%, rgba(201,76,119,1) 100%, rgba(252,70,70,1) 100%);
+    color: white;
+}
+
+.navbar ul li a.fixed{
+   color: black;
+}
+
+.button{
+    border: 1px solid white;
+    padding: 20px 20px;
+    border-radius: 28px;
+    background-color: white;
+}
+
+
+
+
+
+.logo{
+    font-family: 'Allura', cursive;
+    font-size: 48px;
+    background-size: 100%;
+    background-clip: text;
+    -webkit-background-clip: text;
+    background-image: linear-gradient(180deg, rgba(2,0,36,1) 0%, rgba(0,212,255,1) 0%, rgba(10,113,244,1) 50%, rgba(84,11,242,0.9472382703081232) 100%);
+    -webkit-text-fill-color: transparent;
+}
+
+.hero{
+    height: 400vh;
+}
