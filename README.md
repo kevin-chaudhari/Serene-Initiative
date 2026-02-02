@@ -24,9 +24,8 @@ Follow these steps to set up and run Serene on your local machine.
 - **Web Browser**: Any modern web browser like Chrome, Firefox, or Safari.
 
 ### UI
-<img width="1136" height="627" alt="Screenshot 2026-02-02 145647" src="https://github.com/user-attachments/assets/62b1afce-df49-4a6c-b421-6303cd3ddcca" />
 
-![UI image](./images/UI2.png)
+<img width="1221" height="663" alt="Screenshot 2026-02-02 145937" src="https://github.com/user-attachments/assets/159f2245-8100-4ae9-8d66-c297cde0dc51" />
 
 
 ![UI image](./images/UI3.png)
