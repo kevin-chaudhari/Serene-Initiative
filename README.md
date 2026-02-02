@@ -27,10 +27,14 @@ Follow these steps to set up and run Serene on your local machine.
 
 <img width="1221" height="663" alt="Screenshot 2026-02-02 145937" src="https://github.com/user-attachments/assets/159f2245-8100-4ae9-8d66-c297cde0dc51" />
 
-<img width="1208" height="665" alt="Screenshot 2026-02-02 150204" src="https://github.com/user-attachments/assets/c642056a-9d7c-4ed8-b1b4-886dc7a0ba25" />
-<img width="1184" height="637" alt="Screenshot 2026-02-02 150149" src="https://github.com/user-attachments/assets/cfb02c4c-8703-4ea5-9aec-0c0d6d6352a2" />
-<img width="1211" height="666" alt="Screenshot 2026-02-02 150140" src="https://github.com/user-attachments/assets/e98ea791-f9e2-4bb7-b982-efc20b91c12c" />
 <img width="1209" height="660" alt="Screenshot 2026-02-02 150125" src="https://github.com/user-attachments/assets/d1557ce7-bb00-456e-bc71-33955a41d3e2" />
+
+<img width="1211" height="666" alt="Screenshot 2026-02-02 150140" src="https://github.com/user-attachments/assets/e98ea791-f9e2-4bb7-b982-efc20b91c12c" />
+
+<img width="1184" height="637" alt="Screenshot 2026-02-02 150149" src="https://github.com/user-attachments/assets/cfb02c4c-8703-4ea5-9aec-0c0d6d6352a2" />
+
+<img width="1208" height="665" alt="Screenshot 2026-02-02 150204" src="https://github.com/user-attachments/assets/c642056a-9d7c-4ed8-b1b4-886dc7a0ba25" />
+
 
 ### Installation Steps 🔧
 
